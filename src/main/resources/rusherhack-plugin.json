@@ -1,0 +1,16 @@
+{
+  "Plugin-Class": "org.k4n3d4.FovLimiterPlugin",
+  "Name": "${project.plugin_name}",
+  "Version": "${project.plugin_version}",
+  "Description": "Limit the fov multiplier between a max and min value",
+  "URL": "https://github.com/k4n3d4-sh0t4r0/FovLimiter-Rusherhack",
+  "Authors": [
+    "k4n3d4_sh0t4r0"
+  ],
+  "Minecraft-Versions": [
+    "${project.minecraft_version}"
+  ],
+  "Mixin-Configs": [
+    "mixins.fov-limiter.json"
+  ]
+}
