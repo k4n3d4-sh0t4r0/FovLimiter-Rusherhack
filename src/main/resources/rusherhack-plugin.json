@@ -1,5 +1,5 @@
 {
-  "Plugin-Class": "org.k4n3d4.FovLimiterPlugin",
+  "Plugin-Class": "org.k4n3d4.FovLimiter.FovLimiterPlugin",
   "Name": "${project.plugin_name}",
   "Version": "${project.plugin_version}",
   "Description": "Limit the fov multiplier between a max and min value",
